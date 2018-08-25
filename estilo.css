@@ -1,0 +1,42 @@
+.title{
+    font-size: 150%;
+    color: red;
+    text-decoration: underline;
+    align-self: center;
+    font-weight: bold;
+}
+.int{
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color:lightgreen;
+}
+
+.codecss{
+
+}
+
+
+
+/*.meuPadrao{
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+
+.green{
+	background-color: green;
+	color: yellow;
+}
+
+.red{
+	background-color: red;
+	color: yellow;
+}
